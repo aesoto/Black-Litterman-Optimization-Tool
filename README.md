@@ -5,5 +5,5 @@ Index query is subsituted out
 
 Script reads:
 - data.xlsx for price data
-- industrydata.xlsx for company subsectors
-- 
+- industrylibrary.xlsx for company subsectors
+- indexdata.xlsx for index
